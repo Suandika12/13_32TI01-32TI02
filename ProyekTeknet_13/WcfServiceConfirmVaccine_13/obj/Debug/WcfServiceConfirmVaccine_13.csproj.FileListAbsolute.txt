@@ -1,0 +1,12 @@
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\bin\WcfServiceConfirmVaccine_13.dll.config
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\bin\WcfServiceConfirmVaccine_13.dll
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\bin\WcfServiceConfirmVaccine_13.pdb
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\bin\EntityFramework.dll
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\bin\EntityFramework.SqlServer.dll
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\bin\EntityFramework.xml
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\bin\EntityFramework.SqlServer.xml
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\obj\Debug\WcfServiceConfirmVaccine_13.csproj.AssemblyReference.cache
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\obj\Debug\WcfServiceConfirmVaccine_13.csproj.CoreCompileInputs.cache
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\obj\Debug\WcfServiceConfirmVaccine_13.csproj.CopyComplete
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\obj\Debug\WcfServiceConfirmVaccine_13.dll
+C:\Users\Arlecchino\source\repos\ProyekTeknet_13\WcfServiceConfirmVaccine_13\obj\Debug\WcfServiceConfirmVaccine_13.pdb
